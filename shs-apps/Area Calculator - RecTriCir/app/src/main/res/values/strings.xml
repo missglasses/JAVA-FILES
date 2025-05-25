@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LepatanAreaCalculator</string>
+    <string name="shaper">SHAPE: RECTANGLE</string>
+    <string name="title">AREA CALCULATOR</string>
+    <string name="rectbtn">RECTANGLE</string>
+    <string name="tribtn">TRIANGLE</string>
+    <string name="circbtn">CIRCLE</string>
+    <string name="editl1">Type in length</string>
+    <string name="editw1">Type in width</string>
+    <string name="x">x</string>
+    <string name="rb">GET AREA</string>
+    <string name="rt">RECTANGLE</string>
+    <string name="rtitle" />
+    <string name="rwidth" />
+    <string name="rans" />
+    <string name="rl">length</string>
+    <string name="rw">width</string>
+    <string name="ct">CIRCLE</string>
+    <string name="cb">GET AREA</string>
+    <string name="cans" />
+    <string name="tt">TRIANGLE</string>
+    <string name="tb">GET AREA</string>
+    <string name="tans" />
+    <string name="base" />
+    <string name="heightt" />
+    <string name="m">x</string>
+    <string name="d2">÷ 2</string>
+    <string name="bb">base</string>
+    <string name="hh">height</string>
+</resources>
