@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/alata</item>
+        <item>@font/autour_one</item>
+        <item>@font/biorhyme_extralight</item>
+        <item>@font/capriola</item>
+        <item>@font/coustard</item>
+        <item>@font/montserrat_subrayada</item>
+        <item>@font/quando</item>
+    </array>
+</resources>
